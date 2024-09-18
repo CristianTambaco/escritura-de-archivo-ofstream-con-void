@@ -1,0 +1,1 @@
+# escritura-de-archivo-ofstream-con-void
